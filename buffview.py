@@ -7,9 +7,6 @@
 @time: 2024/07/29
 """
 from pystyle import *
-from PIL import Image
-
-
 class Main:
     def __init__(self):
         cursor.hide()
